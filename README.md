@@ -11,3 +11,4 @@ You can just download the components you need and code away
 
 The aim of this rope is to save you time in having to find code snippets all the time 
 
+I also have a JS Fiddle acocunt where I have more free code snippets : http://jsfiddle.net/user/tweetzal/
